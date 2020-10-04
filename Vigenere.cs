@@ -6,10 +6,10 @@ namespace CryptoLib
     class Vigenere
     {
         static string Alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        public void SolveVigenere(string SourceString, string Key)
+        public string Encode(string SourceString, string Key)
         {
             string DataNeedetToGetEncodedValue = GetDigitalEquivalentForKey("dog", SourceString.Length);
-            //Console.WriteLine(GetEncodedValue(DataNeedetToGetEncodedValue, GetNumericEquivalentOfString(SourceString)));
+            return(GetStringRepresentationOfNumericValue(GetEncodedValue(DataNeedetToGetEncodedValue, GetNumericEquivalentOfString(SourceString))));
             
         }
         private string GetNumericEquivalentOfString(string InputString)
@@ -63,12 +63,15 @@ namespace CryptoLib
                 }
 
             }
-            return GetNumericEquivalentOfString(EncodedValue);
+            return EncodedValue;
         }
-        private string GetStringRepresentationOfNumericValue(string NemericValue) {
+        private string GetStringRepresentationOfNumericValue(string NumericValue) {
+            string FinalEncodedValue="";
+            for (int a=0;a<NumericValue.Length;a+=2) {
 
-            //TODO
-            return "";
+                FinalEncodedValue += Alphabet[int.Parse(NumericValue.Substring(a, 2))];
+            }
+            return FinalEncodedValue;
         }
     }
 }

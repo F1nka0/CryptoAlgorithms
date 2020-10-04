@@ -9,3 +9,16 @@ C:\Users\xbox0\Desktop\Crypto\CryptoLib\bin\Debug\netcoreapp3.0\CryptoLib.dll
 C:\Users\xbox0\Desktop\Crypto\CryptoLib\bin\Debug\netcoreapp3.0\CryptoLib.pdb
 C:\Users\xbox0\Desktop\Crypto\CryptoLib\obj\Debug\netcoreapp3.0\CryptoLib.dll
 C:\Users\xbox0\Desktop\Crypto\CryptoLib\obj\Debug\netcoreapp3.0\CryptoLib.pdb
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\bin\Debug\netcoreapp3.0\CryptoLib.exe
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\bin\Debug\netcoreapp3.0\CryptoLib.deps.json
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\bin\Debug\netcoreapp3.0\CryptoLib.runtimeconfig.json
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\bin\Debug\netcoreapp3.0\CryptoLib.runtimeconfig.dev.json
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\bin\Debug\netcoreapp3.0\CryptoLib.dll
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\bin\Debug\netcoreapp3.0\CryptoLib.pdb
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\obj\Debug\netcoreapp3.0\CryptoLib.csprojAssemblyReference.cache
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\obj\Debug\netcoreapp3.0\CryptoLib.AssemblyInfoInputs.cache
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\obj\Debug\netcoreapp3.0\CryptoLib.AssemblyInfo.cs
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\obj\Debug\netcoreapp3.0\CryptoLib.csproj.CoreCompileInputs.cache
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\obj\Debug\netcoreapp3.0\CryptoLib.dll
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\obj\Debug\netcoreapp3.0\CryptoLib.pdb
+C:\Users\xbox0\OneDrive\Рабочий стол\test\CryptoAlgorithms\obj\Debug\netcoreapp3.0\CryptoLib.genruntimeconfig.cache
